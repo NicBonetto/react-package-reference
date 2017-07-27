@@ -4,6 +4,7 @@
   "description": "Reference to a React.js package.json file.",
   "main": "index.js",
   "scripts": {
+    "bundle": "browserify -t babelify index.js > main.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
