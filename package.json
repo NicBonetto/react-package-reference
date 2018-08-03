@@ -20,7 +20,7 @@
   "homepage": "https://github.com/NicBonetto/react-package-reference#readme",
   "dependencies": {
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^16.0.1"
   },
   "devDependencies": {
     "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1",
